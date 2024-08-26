@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3,
+    "title": "Art Gallery",
+    "subtitle": "Developed an interactive art gallery website to efficiently showcase and manage artwork collections, enhancing user experience with detailed profile and comprehensive artwork displays",
+    "imageUrl": "/images/portfolio/artGallery.png",
+    "largeImageUrl": [
+      "/images/portfolio/artGallery.png"
+    ],
+    "liveUrl": "",
+    "gitHubUrl": "https://github.com/Indravathimamidi/EndToEndArtGallery"
+  },
+  {
+    "id": 1,
+    "title": "Highlight Generator",
+    "subtitle": "Developed a highlights generator software using Gemini, enabling automatic creation of merged highlight videos with smooth transitions from user-input videos by reducing manual editing time by 40% - 50% inthe filed of sports specifically",
+    "imageUrl": "/images/portfolio/highlightGenerator.png",
+    "largeImageUrl": [
+      "/images/portfolio/highlightGenerator.png"
+    ],
+    "liveUrl": "https://highlightgenerator.onrender.com/",
+    "gitHubUrl": "https://github.com/MadugulaNaveen/GDSC_WOW"
+  },
+  {
+    "id": 5,
+    "title": "Text to Speech",
+    "subtitle": "Designed a web interface for RoboSpeaker, allowing users to input text for speech synthesis with real-time feedback on text submission.",
+    "imageUrl": "/images/portfolio/textToSpeech.png",
+    "largeImageUrl": ["/images/portfolio/textToSpeech.png"],
+    "liveUrl": "",
+    "gitHubUrl": "https://github.com/Indravathimamidi/textToSpeech"
+  }
+]
+  
