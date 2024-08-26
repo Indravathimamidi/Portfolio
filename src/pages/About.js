@@ -5,7 +5,6 @@ import Layout from '../components/Layout';
 import Sectiontitle from '../components/Sectiontitle';
 import Service from '../components/Service';
 import aboutImage from '../assets/indhu_about.jpg';
-import aboutImagePlaceholder from '../assets/about-image-placeholder.png';
 
 function About() {
   const services = [
@@ -34,7 +33,6 @@ function About() {
               <div className="mi-about-image">
                 <ProgressiveImage
                   src={aboutImage}
-                  placeholder={aboutImagePlaceholder}
                 >
                   {(src) => <img src={src} alt="aboutimage" />}
                 </ProgressiveImage>
